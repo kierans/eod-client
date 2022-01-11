@@ -6,6 +6,9 @@
   "scripts": {
     "test": "mocha test/*.test.js"
   },
+  "files": [
+    "src"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/kierans/eod-client.git"
