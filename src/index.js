@@ -1,5 +1,6 @@
 "use strict";
 
 module.exports = {
-	...require("./client")
+	...require("./client"),
+	...require("./end-of-day")
 };
