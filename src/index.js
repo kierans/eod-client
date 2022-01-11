@@ -2,5 +2,6 @@
 
 module.exports = {
 	...require("./client"),
-	...require("./end-of-day")
+	...require("./end-of-day"),
+	...require("./search")
 };

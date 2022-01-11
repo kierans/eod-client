@@ -7,7 +7,8 @@ Can be used from node and the browser. Uses the [API SDK Creator][1] library.
 ## Coverage
 
 Currently only supports calling EOD's
-- End of day historical API
+- [End of day historical API](https://eodhistoricaldata.com/financial-apis/api-for-historical-data-and-volumes/)
+- [Search API](https://eodhistoricaldata.com/financial-apis/search-api-for-stocks-etfs-mutual-funds-and-indices/)
 
 If there is another EOD endpoint that should be included, please open a PR.
 
