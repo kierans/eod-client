@@ -25,5 +25,10 @@
     "@types/mocha": "^9.0.0",
     "hamjest": "^3.7.3",
     "mocha": "^9.1.3"
+  },
+  "dependencies": {
+    "@api-sdk-creator/http-api-client": "^0.2.1",
+    "@epistemology-factory/crocks-ext": "0.0.17",
+    "crocks": "^0.12.4"
   }
 }
