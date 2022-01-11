@@ -1,0 +1,29 @@
+{
+  "name": "eod-client",
+  "version": "0.1.0",
+  "description": "JS client to use API of eodhistoricaldata.com",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kierans/eod-client.git"
+  },
+  "keywords": [
+    "eod",
+    "api",
+    "ticker"
+  ],
+  "author": "Kieran Simpson <kierans777@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kierans/eod-client/issues"
+  },
+  "homepage": "https://github.com/kierans/eod-client#readme",
+  "devDependencies": {
+    "@types/mocha": "^9.0.0",
+    "hamjest": "^3.7.3",
+    "mocha": "^9.1.3"
+  }
+}
